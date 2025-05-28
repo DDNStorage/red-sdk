@@ -1,0 +1,10 @@
+[package]
+name = "red"
+version = "0.1.0"
+edition = "2021"
+links = "red_client"
+
+[build-dependencies]
+bindgen = "0.69.1"
+
+[dependencies]

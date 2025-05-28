@@ -1,0 +1,9 @@
+[package]
+name = "common"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+red = { path = "../../../rust/red" }
+nix = "0.26"
+libc = "0.2"

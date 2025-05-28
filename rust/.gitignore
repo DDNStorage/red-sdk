@@ -1,0 +1,9 @@
+# Rust build artifacts
+/target/
+**/target/
+
+# Generated bindings
+/red/src/bindings.rs
+
+# Cargo lock file
+Cargo.lock

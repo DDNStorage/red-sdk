@@ -1,0 +1,5 @@
+*.o
+*.a
+*.so
+compile_commands.json
+hello-world

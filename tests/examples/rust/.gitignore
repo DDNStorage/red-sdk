@@ -1,0 +1,4 @@
+# Rust specific
+/target/
+**/target/
+Cargo.lock
